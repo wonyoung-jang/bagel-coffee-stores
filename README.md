@@ -2,8 +2,6 @@
 
 This project aims to develop and manage databases for the fictional businesses Bagel Corner and Mister Coffee. It includes tasks such as creating entity-relationship models, constructing databases in MySQL, and scripting SQL for various data operations.
 
-{TODO Image Placeholder for Project Overview}
-
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -32,10 +30,20 @@ This project aims to develop and manage databases for the fictional businesses B
 - Execute the SQL scripts to perform various database operations.
 
 ## Bagel Corner Database Blueprints
-- Detailed blueprints of the database normalization process, including First Normal Form (1NF), Second Normal Form (2NF), Third Normal Form (3NF), and the final physical database model.
+### 1st Normal Form (1NF)
+![](images/Bagel_1NF.jpg)
+
+### 2nd Normal Form (2NF)
+![](images/Bagel_2NF.jpg)
+
+### 3rd Normal Form (3NF)
+![](images/Bagel_3NF.jpg)
+
+### Final Database Model
+![](images/Bagel_Final.jpg)
 
 ## Mister Coffee Entity-Relationship Diagram
-- {TODO A comprehensive ER diagram illustrating the database structure for Mister Coffee}.
+![](images/Mister_Coffee_ERD.jpg)
 
 ## License
 [MIT License](LICENSE)
